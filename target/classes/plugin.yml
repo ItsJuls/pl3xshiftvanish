@@ -1,0 +1,6 @@
+name: Pl3xshiftvanish
+version: '1.0'
+main: me.jules.pl3xshiftvanish.Pl3xshiftvanish
+api-version: 1.19
+authors: [ ItsJules_ ]
+description: Vanishes your players when they shift in pl3xmap!
